@@ -1,0 +1,223 @@
+{
+  "MENU_ITEMS": [
+    {
+      "label": "Home",
+      "path": "#banner_section",
+      "offset": "0"
+    },
+    {
+      "label": "Features",
+      "path": "#trusted",
+      "offset": "0"
+    },
+    {
+      "label": "Launch",
+      "path": "#contact",
+      "offset": "-10"
+    },
+
+    {
+      "label": "Get 1 Free Month",
+      "path": "#contact",
+      "offset": "-10"
+    },
+    {
+      "label": "Sign Up",
+      "path": "#contact",
+      "offset": "380"
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "review": "I've tried a lot of productivity apps before but this one really hits the nail! I forgot that I really was a lazy guy.",
+      "name": "Jasper Cruz",
+      "designation": "Far Eastern University, Student.",
+      "avatar": "../../assets/image/crypto/a1.png"
+    },
+    {
+      "review": "Just having your tasks sorted out makes it easier to execute. Immerse never fails to put me in the the zone.",
+      "name": "Yna Cheng",
+      "designation": "New Era University, Senior High",
+      "avatar": "../../assets/image/crypto/a2.png"
+    },
+    {
+      "review": "Self promises and verbal commitments are now a thing of the past, having a tool that sorts and manages your tasks for you is the new productive.",
+      "name": "Vin",
+      "designation": "Technological Institute of the Philippines, Senior",
+      "avatar": "../../assets/image/crypto/a3.png"
+    },
+    {
+      "review": "Thesis, backlogs, projects. I was still able to party because Immerse helped me manage my workload. I never realized I had a lot of vacant time.",
+      "name": "Renzel Austria",
+      "designation": "National College of Business and Arts, Sophomore.",
+      "avatar": "../../assets/image/crypto/a4.png"
+    }
+  ],
+  "TRANSACTIONS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/saly.svg",
+      "title": "Create a detailed todo-list.",
+      "des": "Be it partying, socializing, working or your daily household chores. Immerse will make sure you keep track of everything."
+    },
+    {
+      "image": "../../assets/image/crypto/saly2.svg",
+      "title": "Write important notes and docs.",
+      "des": "The productivity suite also gives you a compact note locker, safely store important notes and save documents.."
+    },
+    {
+      "image": "../../assets/image/crypto/saly3.svg",
+      "title": "Eliminate Distractions.",
+      "des": "Our AppLocker guarantees you get your tasks finished first by temporarily locking your attention-draining applications."
+    },
+    {
+      "image": "../../assets/image/crypto/saly4.svg",
+      "title": "Enjoy more free time.",
+      "des": "A walk to the park, playing video games or just doing literally anything, Immerse makes sure you get there!"
+    }
+  ],
+  "PROOFS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/todo.svg",
+      "title": "Task Manager (To-Do)",
+      "des": "Easily create and execute daily tasks."
+    },
+    {
+      "image": "../../assets/image/crypto/notebook.svg",
+      "title": "Notebook",
+      "des": "Write important notes and store articles."
+    },
+    {
+      "image": "../../assets/image/crypto/locker.svg",
+      "title": "App Locker",
+      "des": "Stay focused by temporarily stopping other apps."
+    },
+    {
+      "image": "../../assets/image/crypto/timer.svg",
+      "title": "Study Timer",
+      "des": "Catch the clock with timer templates."
+    },
+    {
+      "image": "../../assets/image/crypto/tracker.svg",
+      "title": "Budget Tracker",
+      "des": "Never lose a dime with the budget tracker."
+    },
+    {
+      "image": "../../assets/image/crypto/pass.svg",
+      "title": "Password Safe",
+      "des": "Store random generated passwords."
+    }
+  ],
+  "SCALABLE_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Daily Jackpot",
+      "des": "35000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Weekly Jackpot",
+      "des": "250000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Monthly Jackpot",
+      "des": "4999697 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Yearly Jackpot",
+      "des": "300245785000 CLV"
+    }
+  ],
+  "BETA_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/beta-1.svg",
+      "title": "Report Bugs in 2 Taps",
+      "des": "We devs always keep track of our services."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-2.svg",
+      "title": "24/7 Support",
+      "des": "Immerse Staff is always here for you, 'round-the-clock."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-3.svg",
+      "title": "Try and Test",
+      "des": "We mix and match features that are useful"
+    }
+  ],
+  "menuWidget": [
+    {
+      "id": 1,
+      "title": "About Us",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "The Guy Behind"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Product Inspiration"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "The Big Names"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Copyright"
+        },
+        {
+          "id": 5,
+          "url": "#",
+          "text": "Popular Campaign"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Others",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Misc"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Blog"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "Other Apps"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Compatible Browsers"
+        }
+      ]
+    }
+  ],
+  "Language_NAMES": [
+    {
+      "label": "English",
+      "value": "eng"
+    },
+    {
+      "label": "Chinese",
+      "value": "chinese"
+    },
+    {
+      "label": "Indian",
+      "value": "indian"
+    }
+  ]
+}
